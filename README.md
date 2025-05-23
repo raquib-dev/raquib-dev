@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Raquib</h1>
+<h3 align="center">Python Developer | Backend Engineer | API & Automation Specialist</h3>
 
-<!--
-**raquib-dev/raquib-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **industrial automation systems, PLC integrations, and fast APIs**
 
-Here are some ideas to get you started:
+- 🌱 I’m learning **system design, scalable backend architecture, and devops essentials**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Python, FastAPI, MySQL, Docker, PLC data logging, and API integrations**
+
+- 📫 How to reach me: **raquib.pythondev@gmail.com**
+
+- 📁 All my personal & professional projects will be shared here openly
+
+---
+
+### 🚀 Tech Stack:
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
+![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raquib-dev&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquib-dev&layout=compact&theme=tokyonight" />
+</p>
