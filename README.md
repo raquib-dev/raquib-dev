@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Raquib</h1>
 <h3 align="center">Python Developer | Backend Engineer | API & Automation Specialist</h3>
 
-- 🔭 I’m currently working on **industrial automation systems, PLC integrations, and fast APIs**
+- 🔭 I’m currently building **fast, reliable backend systems with Python, FastAPI, and MySQL**
 
-- 🌱 I’m learning **system design, scalable backend architecture, and devops essentials**
+- 🌱 I’m learning **system design, clean architecture, and deployment with Docker**
 
-- 💬 Ask me about **Python, FastAPI, MySQL, Docker, PLC data logging, and API integrations**
+- 💬 Ask me about **Python, backend architecture, REST APIs, FastAPI, MySQL, and async systems**
 
 - 📫 How to reach me: **raquib.pythondev@gmail.com**
 
-- 📁 All my personal & professional projects will be shared here openly
+- 📁 I share all my real-world software projects openly here
 
 ---
 
